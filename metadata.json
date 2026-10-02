@@ -1,0 +1,6 @@
+{
+  "name": "PFM AI Consultant",
+  "description": "전문 개인재무관리(PFM) AI 컨설턴트 - 월간 가계부 결산 리포트, 지출 순위 바 차트 시각화, 절약 솔루션 및 투자 포트폴리오 추천",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
